@@ -112,6 +112,7 @@ The first dashboard page contains:
 
 ### Page 2 — U.S. Fuel & State Analysis
 ![U.S. Fuel & State Analysis](documentation/images/fuel_state_analysis.png)
+
 The second dashboard page contains:
 
 - U.S. Vehicle Market by Fuel Type
