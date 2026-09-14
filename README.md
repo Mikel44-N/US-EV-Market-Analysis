@@ -99,7 +99,7 @@ DAX measures were created for:
 ## Dashboard
 
 ### Page 1 — U.S. Electric Vehicle Market Overview
-![U.S. Electric Vehicle Market Overview](images/dashboard_overview.png)
+![U.S. Electric Vehicle Market Overview](documentation/images/dashboard_overview.png)
 
 The first dashboard page contains:
 
@@ -111,8 +111,7 @@ The first dashboard page contains:
 - U.S. average EV adoption reference line
 
 ### Page 2 — U.S. Fuel & State Analysis
-![U.S. Fuel & State Analysis](images/fuel_state_analysis.png)
-
+![U.S. Fuel & State Analysis](documentation/images/fuel_state_analysis.png)
 The second dashboard page contains:
 
 - U.S. Vehicle Market by Fuel Type
